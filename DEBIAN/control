@@ -1,0 +1,13 @@
+Package: youcaresystem
+Version: 4.4.0
+Architecture: all
+Maintainer: Maksym Titenko <titenko.m@gmail.com>
+Installed-Size: 66
+Depends: apt, deborphan, lsb-release, xterm
+Section: utils
+Priority: optional
+Description: All-in-one System Update and maintenance app
+ This simple script will automatically refresh your packagelist,
+ download and install software updates (if there are any), remove old
+ kernels, obsolete packages and configuration files and free up disk space
+ without any user intervention

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=YouCareSystem 
+Comment=All in one system maintenance
+Icon=youcaresystemicon
+Exec=launch-youcaresystem
+Terminal=false
+Categories=PackageManager;System;
